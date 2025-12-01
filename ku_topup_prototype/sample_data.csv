@@ -1,0 +1,6 @@
+id,text,label
+1,I found a database dump with emails and passwords for users of example.com,threat
+2,Has anyone tried the new game patch? Works great,non-threat
+3,Exploit for CVE-2024-12345 - remote code execution PoC included,threat
+4,Looking for contributors to open-source project,non-threat
+5,We have a ransomware note and stolen db dump available for sale,threat
